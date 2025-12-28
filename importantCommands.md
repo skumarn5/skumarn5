@@ -9,4 +9,4 @@ Add everything to staging - git add .
 
 commit changes - git commit -m <message>
 
-Needs to remember above commands and practise carefully otherwise you wont understand
+Please make sure to update the commands
